@@ -1,1 +1,2 @@
 poppler-utils
+libgl1-mesa-glx
